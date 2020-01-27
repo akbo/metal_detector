@@ -1,0 +1,11 @@
+name: metal_detector
+channels:
+  - fastai
+  - pytorch
+dependencies:
+  - python>=3.6
+  - pandas
+  - jupyter
+  - ipython
+  - fastai
+  - pytorch
